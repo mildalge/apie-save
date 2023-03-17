@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;1,200;1,300&display=swap');
+*{
+    padding: 4px;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 16px; 
+}
+
+body{
+    background-color: #000d29;
+    background-image: url(https://images.unsplash.com/photo-1549321495-305eb13f8aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80);
+    background-size: cover;
+    border: 2px solid powderblue ;
+    padding: 16px;
+    
+}
+
+h1{
+    color: #bca18d;
+}
+
+p{
+    color: #118c8b;
+    max-width: 600px;
+    font-size: 18px; 
+    text-align: left;
+    padding: 10px 1px 12px 20px;
+}
+.mildamoto {
+    color: #f14d49;
+    font-size: 1.5em;
+    font-weight: 500;
+    text-decoration-line: underline;   
+}
+img{
+    width: 400px;
+    height: 600px;
+    max-width:fit-content
+
+    margin-left: auto;
+    border-top-left-radius:50px;
+    border-bottom-right-radius: 50px;
+    opacity: 0.85;
+    
+}
+
+
+/* * CSS priemonės
++ text-align
++ text-transform
++ font-size 
++ font-family
++ font-weight
++ letter-spacing
++ word-spacing
++ line-height
+ 
++ margin
++ padding
++ border
+ 
++ width
++ max-width
++ min-width
++ background
++ background-color
++ background-image
++ background-size
++ background-repeat
++ background-position
++ border-radius
+*/ */
